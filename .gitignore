@@ -1,0 +1,10 @@
+*.log
+*.xlsx
+*.csv
+*.txt
+*.bat
+/tmp
+/data
+data/.config
+/.env
+**/**__pycache
