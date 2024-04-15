@@ -1,0 +1,2666 @@
+
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+        <HTML>
+        <HEAD>
+        <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <TITLE>Untitled Document</TITLE>
+        </HEAD>
+        <BODY>
+        <TABLE border="1">
+        <tr>
+            <td><b>FILIAL</b></td>  
+            <td><b>GRUPO_VENDEDOR</b></td>  
+            <td><b>COD_VENDEDOR</b></td>    
+            <td><b>VENDEDOR</b></td>    
+            <td><b>CONTRATO_ID</b></td> 
+            <td><b>NUMERO_ADE</b></td>
+            <td><b>NUMERO_CONTRATO</b></td>
+            <td><b>PRAZO</b></td>   
+            <td><b>VLR_PARC</b></td>
+            <td><b>VALOR_BRUTO</b></td>
+            <td><b>VALOR_LIQUIDO</b></td>
+            <td><b>VALOR_BASE</b></td>  
+            <td><b>PERC_COMISSAO_REPASSE</b></td>
+            <td><b>VLR_COMISSAO_REPASSE</b></td>            
+            <td><b>CLIENTE</b></td>
+            <td><b>CPF</b></td>
+            <td><b>SIT_BANCO</b></td>
+            <td><b>SIT_PAGAMENTO_CLIENTE</b></td>
+            <td><b>DATA_DIGIT_BANCO</b></td>
+            <td><b>DATA_PAGAMENTO_CLIENTE</b></td>
+            <td><b>BANCO</b></td>
+            <td><b>CONVENIO</b></td>
+            <td><b>TABELA</b></td>
+            <td><b>USUARIO_DIGIT_BANCO</b></td>
+            <td><b>USUARIO_DIGIT_BANCO_SUBESTABELECIDO</b></td>
+            <td><b>SUB_USUARIO</b></td>
+            <td><b>LOGIN_SUB_USUARIO</b></td>
+            <td><b>SITUACAO_PENDENCIA</b></td>
+            <td><b>TIPO CONTRATO</b></td>
+            <td><b>CODIGO_PRODUTO</b></td>
+            <td><b>CODIGO_CONVENIO</b></td>
+            <td><b>FISICO_EMPRESA</b></td>
+            <td><b>DATA_FISICO_EMPRESA</b></td>
+            <td><b>USUÁRIO_FISICO_EMPRESA</b></td>
+            <td><b>SIT_PAGAMENTO_COMISSAO</b></td>
+            <td><b>DATA_PAGAMENTO_COMISSAO</b></td>
+            <td><b>SUB_STATUS</b></td>
+            <td><b>DATA_SUB_STATUS</b></td>
+            <td><b>PERC_BONUS_REPASSE</b></td>
+            <td><b>VLR_BONUS_REPASSE</b></td>
+        </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331419</td>
+                <td>'509430005382</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>ADRIA TAINAR SOARES SANTANA</td>
+                <td>06459346585</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>HARIANE ALVES FEITOZA (Sub-usuário parceiro)</td>
+                <td>'1291.42153861870</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334233</td>
+                <td>'509430005557</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>ALESSANDRA NUNES SOARES</td>
+                <td>03704441082</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>THIAGO DA COSTA SILVA (Sub-usuário parceiro)</td>
+                <td>'1291.03822135135</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331145</td>
+                <td>'509430005352</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>563,01</td>
+                <td>563,01</td>
+                <td>563,01</td>                
+                <td>5</td>
+                <td>28,15</td>
+                <td>ALINE DIAS DE JESUS</td>
+                <td>24168215806</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>MILENA ANDRADE DA SILVA (Sub-usuário parceiro)</td>
+                <td>'1291.46813478842</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,15</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334129</td>
+                <td>'509430005541</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>563,01</td>
+                <td>563,01</td>
+                <td>563,01</td>                
+                <td>5</td>
+                <td>28,15</td>
+                <td>ALINE ESTEVES SILVA</td>
+                <td>08693562754</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>JÉSSICA PACHECO CABRAL (Sub-usuário parceiro)</td>
+                <td>'1291.13701162760</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,15</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>336723</td>
+                <td>'509430005543</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>563,01</td>
+                <td>563,01</td>
+                <td>563,01</td>                
+                <td>5</td>
+                <td>28,15</td>
+                <td>ALINE JULIANE SILVA DA SILVA</td>
+                <td>03360459059</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LEANDRO DIAS LOPES (Sub-usuário parceiro)</td>
+                <td>'1291.13532941708</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,15</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331826</td>
+                <td>'509430005443</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>577,65</td>
+                <td>577,65</td>
+                <td>577,65</td>                
+                <td>5</td>
+                <td>28,88</td>
+                <td>ANA KAROLYNA BARBOSA DE SOUZA</td>
+                <td>70671029100</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ALEXANDRE FEITOSA DO NASCIMENTO (Sub-usuário parceiro)</td>
+                <td>'1291.03736942532</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,88</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>337350</td>
+                <td>'509430005888</td>
+                <td>'</td>
+                <td>1</td>
+                <td>1199,26</td>
+                <td>990,04</td>
+                <td>990,04</td>
+                <td>990,04</td>                
+                <td>6</td>
+                <td>59,4</td>
+                <td>ANA LUCIA DE SOUSA CARVALHO</td>
+                <td>08687291833</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>10/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>INSS</td>
+                <td>EMPRESTIMO PESSOAL 13º -ANTECIPAÇÃO</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LAIANE BARBOSA VIANNA (Sub-usuário parceiro)</td>
+                <td>'1291.47599351850</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>011 - ANTECIPAÇÃO 1ª PARCELA</td>      
+                <td>1455</td>    
+                <td>1</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>APROVADA</td>    
+                <td>11/04/2024</td>
+                <td>14%</td>
+                <td>138,61</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>338169</td>
+                <td>'509430005914</td>
+                <td>'</td>
+                <td>1</td>
+                <td>1165,81</td>
+                <td>786,92</td>
+                <td>786,92</td>
+                <td>786,92</td>                
+                <td>6</td>
+                <td>47,22</td>
+                <td>ANA LUCIA DE SOUSA CARVALHO</td>
+                <td>08687291833</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>10/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>INSS</td>
+                <td>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LAIANE BARBOSA VIANNA (Sub-usuário parceiro)</td>
+                <td>'1291.47599351850</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>013 - ANTECIPAÇÃO 2ª PARCELA</td>      
+                <td>1454</td>    
+                <td>1</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>APROVADA</td>    
+                <td>11/04/2024</td>
+                <td>14%</td>
+                <td>110,17</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331974</td>
+                <td>'509430005474</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>ANDERSON PALMA DE MORAES DIAS</td>
+                <td>03981069080</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>FLAVIO FACCO (Sub-usuário parceiro)</td>
+                <td>'1291.00830350012</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331211</td>
+                <td>'509430005377</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>ANDRESSA DA SILVA JACINTO</td>
+                <td>49379776870</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>BEATRIZ BRANDAO ROCHA (Sub-usuário parceiro)</td>
+                <td>'1291.40138051895</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334248</td>
+                <td>'509430005553</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>ANDRESSA GABRIELE GOLIONES DO PRADO</td>
+                <td>04142202006</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ROGÉRIO CHAGAS LARANJEIRA (Sub-usuário parceiro)</td>
+                <td>'1291.86566270744</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331761</td>
+                <td>'509430005424</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>577,65</td>
+                <td>577,65</td>
+                <td>577,65</td>                
+                <td>5</td>
+                <td>28,88</td>
+                <td>ANTONIA CLECIA FERREIRA DE OLIVEIRA</td>
+                <td>01541288300</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>TUANI DA SILVA MAZORCA (Sub-usuário parceiro)</td>
+                <td>'1291.47564655879</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,88</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334121</td>
+                <td>'509430005546</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>577,65</td>
+                <td>577,65</td>
+                <td>577,65</td>                
+                <td>5</td>
+                <td>28,88</td>
+                <td>BEATRIZ SANTOS LIMA</td>
+                <td>04970176108</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>THIAGO DA COSTA SILVA (Sub-usuário parceiro)</td>
+                <td>'1291.03822135135</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,88</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334274</td>
+                <td>'509430005561</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>BEATRIZ SANTOS LOPES</td>
+                <td>20079335780</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>JÉSSICA PACHECO CABRAL (Sub-usuário parceiro)</td>
+                <td>'1291.13701162760</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332378</td>
+                <td>'509430005484</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>BRUNA CHUNG MOURA</td>
+                <td>86575193560</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ELTON LEANDRO DOS SANTOS (Sub-usuário parceiro)</td>
+                <td>'1291.02363989546</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332017</td>
+                <td>'509430005452</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>CARLA  MARIA PAULINO DOS SANTOS</td>
+                <td>10175758433</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>MARIA DEISIANE DO NASCIMENTO SILVA LANDIM (Sub-usuário parceiro)</td>
+                <td>'1291.04133850351</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331948</td>
+                <td>'509430005475</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>CAROLINE BAGESTON BIER</td>
+                <td>11028358970</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LEANDRO DIAS LOPES (Sub-usuário parceiro)</td>
+                <td>'1291.13532941708</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331295</td>
+                <td>'509430005364</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>CAROLINE DA SILVA</td>
+                <td>11241848998</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>IRIS LIMA DE PAULA RODRIGUES (Sub-usuário parceiro)</td>
+                <td>'1291.11400139635</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332232</td>
+                <td>'509430005491</td>
+                <td>'</td>
+                <td>6</td>
+                <td>239,1</td>
+                <td>699,24</td>
+                <td>699,24</td>
+                <td>699,24</td>                
+                <td>6</td>
+                <td>41,95</td>
+                <td>CLAUDIA MARIA NUNES DE OLIVEIRA</td>
+                <td>07713520775</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>INSS</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ALEXANDRO MERCES DE OLIVEIRA (Sub-usuário parceiro)</td>
+                <td>'1291.01686949561</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1456</td>    
+                <td>1</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>14%</td>
+                <td>97,89</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334136</td>
+                <td>'509430005550</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>674,18</td>
+                <td>674,18</td>
+                <td>674,18</td>                
+                <td>5</td>
+                <td>33,71</td>
+                <td>CLEIDIANE MARTINS RAMOS</td>
+                <td>38230972885</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LOHANNY SANTOS DE MELO (Sub-usuário parceiro)</td>
+                <td>'1291.40273498819</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,71</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332294</td>
+                <td>'509430005487</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>CLEITIANE RIBEIRO DE FREITAS</td>
+                <td>08547879331</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>NAIARA NOGUEIRA NICOLAU (Sub-usuário parceiro)</td>
+                <td>'1291.06274779337</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332239</td>
+                <td>'509430005485</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>DEISILAINE DUTRA DOS SANTOS</td>
+                <td>01810728150</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ALEXANDRE FEITOSA DO NASCIMENTO (Sub-usuário parceiro)</td>
+                <td>'1291.03736942532</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331481</td>
+                <td>'509430005393</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>DHARINKA CAROLINE DA CRUZ SILVA</td>
+                <td>70852572450</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>MARCELA SILVA ARGOLO (Sub-usuário parceiro)</td>
+                <td>'1291.85770943599</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334263</td>
+                <td>'509430005559</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>577,65</td>
+                <td>577,65</td>
+                <td>577,65</td>                
+                <td>5</td>
+                <td>28,88</td>
+                <td>EDNA MARTINS DOS SANTOS</td>
+                <td>03504458500</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ARIANE HENDGES (Sub-usuário parceiro)</td>
+                <td>'1291.07524793936</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,88</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331045</td>
+                <td>'509430005328</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>ELEN CRISTINA JESUS DA SILVA</td>
+                <td>38838267820</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>EDUARDO DOS SANTOS VITORIO (Sub-usuário parceiro)</td>
+                <td>'1291.41712672851</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>338530</td>
+                <td>'509430005939</td>
+                <td>'</td>
+                <td>12</td>
+                <td>148,04</td>
+                <td>669,84</td>
+                <td>669,84</td>
+                <td>669,84</td>                
+                <td>5</td>
+                <td>33,49</td>
+                <td>ELIZETE RODRIGUES MEDEIROS</td>
+                <td>68151993049</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>10/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>DANIELE EUFRASIO MARCIANO (Sub-usuário parceiro)</td>
+                <td>'1291.22753956871</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,49</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332603</td>
+                <td>'509430005515</td>
+                <td>'</td>
+                <td>1</td>
+                <td>645,39</td>
+                <td>500</td>
+                <td>500</td>
+                <td>500</td>                
+                <td>6</td>
+                <td>30</td>
+                <td>ESMERALDA DE ALMEIDA SILVA</td>
+                <td>02196660833</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>INSS</td>
+                <td>EMPRESTIMO PESSOAL 13º -ANTECIPAÇÃO</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LARISSA CASTILHO DELGADO (Sub-usuário parceiro)</td>
+                <td>'1291.11282482718</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>011 - ANTECIPAÇÃO 1ª PARCELA</td>      
+                <td>1455</td>    
+                <td>1</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>14%</td>
+                <td>70</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>336763</td>
+                <td>'509430005542</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>669,83</td>
+                <td>669,83</td>
+                <td>669,83</td>                
+                <td>5</td>
+                <td>33,49</td>
+                <td>ESTEFHANE CHAUANE  SANTIAGO DE JESUS</td>
+                <td>05410575105</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>MILENA ANDRADE DA SILVA (Sub-usuário parceiro)</td>
+                <td>'1291.46813478842</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,49</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331154</td>
+                <td>'509430005363</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>585,14</td>
+                <td>585,14</td>
+                <td>585,14</td>                
+                <td>5</td>
+                <td>29,26</td>
+                <td>ESTER ALVES DE SOUZA</td>
+                <td>11513193686</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>GLEYCE RIBEIR (Sub-usuário parceiro)</td>
+                <td>'1291.23336866855</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,26</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331863</td>
+                <td>'509430005438</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>674,18</td>
+                <td>674,18</td>
+                <td>674,18</td>                
+                <td>5</td>
+                <td>33,71</td>
+                <td>FABRICIA SOARES DE MATOS</td>
+                <td>17292945619</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LOHANNY SANTOS DE MELO (Sub-usuário parceiro)</td>
+                <td>'1291.40273498819</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,71</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331631</td>
+                <td>'509430005410</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>GILSON DOS SANTOS CAMPELO</td>
+                <td>11803643412</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>TIAGO LISBOA DO SACRAMENTO (Sub-usuário parceiro)</td>
+                <td>'1291.01438308485</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331852</td>
+                <td>'509430005430</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>GRAZIANE CRISTINE FERREIRA DOS  SANTOS</td>
+                <td>11184651647</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>VANDERLEY SOARES JUNIOR (Sub-usuário parceiro)</td>
+                <td>'1291.09866180638</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332381</td>
+                <td>'509430005493</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>IASMIM TAINA MACHADO DE OLIVEIRA TRETTIM</td>
+                <td>02701009030</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ARIANE HENDGES (Sub-usuário parceiro)</td>
+                <td>'1291.07524793936</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331193</td>
+                <td>'509430005359</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>674,18</td>
+                <td>674,18</td>
+                <td>674,18</td>                
+                <td>5</td>
+                <td>33,71</td>
+                <td>INGRID ARIELY ALVES FERREIRA</td>
+                <td>01893470237</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>MILENA ANDRADE DA SILVA (Sub-usuário parceiro)</td>
+                <td>'1291.46813478842</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,71</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>340351</td>
+                <td>'509430006001</td>
+                <td>'</td>
+                <td>1</td>
+                <td>494,2</td>
+                <td>354,35</td>
+                <td>354,35</td>
+                <td>354,35</td>                
+                <td>6</td>
+                <td>21,26</td>
+                <td>IVANI VIEIRA DE BESSA DE OLIVEIRA</td>
+                <td>39683079172</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>10/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>INSS</td>
+                <td>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>SAMAR JAROUSH (Sub-usuário parceiro)</td>
+                <td>'1291.47038016806</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>013 - ANTECIPAÇÃO 2ª PARCELA</td>      
+                <td>1454</td>    
+                <td>1</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>14%</td>
+                <td>49,61</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332803</td>
+                <td>'509430005532</td>
+                <td>'</td>
+                <td>1</td>
+                <td>315,7</td>
+                <td>199,42</td>
+                <td>199,42</td>
+                <td>199,42</td>                
+                <td>6</td>
+                <td>11,97</td>
+                <td>JAQUELINE DA SILVA SANTOS</td>
+                <td>07192895997</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>INSS</td>
+                <td>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LARISSA MEWES (Sub-usuário parceiro)</td>
+                <td>'1291.07385265928</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>013 - ANTECIPAÇÃO 2ª PARCELA</td>      
+                <td>1454</td>    
+                <td>1</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>14%</td>
+                <td>27,92</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>338173</td>
+                <td>'509430005907</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>674,18</td>
+                <td>674,18</td>
+                <td>674,18</td>                
+                <td>5</td>
+                <td>33,71</td>
+                <td>JESSICA JOELMA DOS SANTOS MARIANO</td>
+                <td>17144675702</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>10/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>JÉSSICA PACHECO CABRAL (Sub-usuário parceiro)</td>
+                <td>'1291.13701162760</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,71</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332306</td>
+                <td>'509430005490</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>585,14</td>
+                <td>585,14</td>
+                <td>585,14</td>                
+                <td>5</td>
+                <td>29,26</td>
+                <td>JOYCE MOREIRA DOS SANTOS LAPA</td>
+                <td>45038028870</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LOHANNY SANTOS DE MELO (Sub-usuário parceiro)</td>
+                <td>'1291.40273498819</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,26</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332396</td>
+                <td>'509430005492</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>674,18</td>
+                <td>674,18</td>
+                <td>674,18</td>                
+                <td>5</td>
+                <td>33,71</td>
+                <td>JULIA DE OLIVEIRA</td>
+                <td>11465114939</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>RICARDO LEONARDO DA SILVA (Sub-usuário parceiro)</td>
+                <td>'1291.04318557901</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,71</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331302</td>
+                <td>'509430005356</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>KESIA MARCELINO DOS SANTOS</td>
+                <td>18156001796</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>PATRIQUI GUIMARÃES DIAS (Sub-usuário parceiro)</td>
+                <td>'1291.39953662878</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332208</td>
+                <td>'509430005477</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>585,14</td>
+                <td>585,14</td>
+                <td>585,14</td>                
+                <td>5</td>
+                <td>29,26</td>
+                <td>KETHLEM CAVALCANTE CRUZ</td>
+                <td>00634624270</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>FABIANA CRISTINA DA SILVA BRAZ DE OLIVEIRA (Sub-usuário parceiro)</td>
+                <td>'1291.27779080870</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,26</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331189</td>
+                <td>'509430005365</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>LARISSA KAROLINE ALINA</td>
+                <td>47625831892</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LOHANNY SANTOS DE MELO (Sub-usuário parceiro)</td>
+                <td>'1291.40273498819</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332231</td>
+                <td>'509430005479</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>LETICIA GABRIELLA CAETANO PEREIRA</td>
+                <td>48507429807</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LOHANNY SANTOS DE MELO (Sub-usuário parceiro)</td>
+                <td>'1291.40273498819</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331160</td>
+                <td>'509430005375</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>LUZIANE CAROLINA FAGUNDES PEREIRA</td>
+                <td>11295067625</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ROSILENE DOS SANTOS LEAL (Sub-usuário parceiro)</td>
+                <td>'1291.53644530653</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331661</td>
+                <td>'509430005419</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>MAILANY DAIENE DA SILVA</td>
+                <td>12556385405</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>EVERALDO BAPTISTA VICENTE (Sub-usuário parceiro)</td>
+                <td>'1291.02742796738</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331816</td>
+                <td>'509430005423</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>MARIA DE LOURDES DO NASCIMENTO SILVA</td>
+                <td>15842685493</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>REGIANE MARTINS ATOUNOUVI (Sub-usuário parceiro)</td>
+                <td>'1291.02916945431</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334226</td>
+                <td>'509430005558</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>MARIA DO LIVRAMENTO DA SILVA DE OLIVEIRA</td>
+                <td>53300130387</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LEANDRO DIAS LOPES (Sub-usuário parceiro)</td>
+                <td>'1291.13532941708</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331403</td>
+                <td>'509430005385</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>MARIANA CRISTINA DA SILVA HERCULANA</td>
+                <td>33199472818</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ALEXANDRE FEITOSA DO NASCIMENTO (Sub-usuário parceiro)</td>
+                <td>'1291.03736942532</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331439</td>
+                <td>'509430005386</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>563,01</td>
+                <td>563,01</td>
+                <td>563,01</td>                
+                <td>5</td>
+                <td>28,15</td>
+                <td>MARIANA GRACIANO MARTINS</td>
+                <td>42494224888</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LOHANNY SANTOS DE MELO (Sub-usuário parceiro)</td>
+                <td>'1291.40273498819</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,15</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332247</td>
+                <td>'509430005488</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>674,18</td>
+                <td>674,18</td>
+                <td>674,18</td>                
+                <td>5</td>
+                <td>33,71</td>
+                <td>MAYARA STEFANY MARTINS DOS SANTOS</td>
+                <td>17091913760</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>JÉSSICA PACHECO CABRAL (Sub-usuário parceiro)</td>
+                <td>'1291.13701162760</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,71</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334144</td>
+                <td>'509430005545</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>669,83</td>
+                <td>669,83</td>
+                <td>669,83</td>                
+                <td>5</td>
+                <td>33,49</td>
+                <td>MILANE DA CRUZ MIRANDA</td>
+                <td>93190255253</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ALEXANDRE FEITOSA DO NASCIMENTO (Sub-usuário parceiro)</td>
+                <td>'1291.03736942532</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>33,49</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>336735</td>
+                <td>'509430005551</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>577,65</td>
+                <td>577,65</td>
+                <td>577,65</td>                
+                <td>5</td>
+                <td>28,88</td>
+                <td>PATRICIA MORAES DINIZ</td>
+                <td>05655543796</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>DANIELE EUFRASIO MARCIANO (Sub-usuário parceiro)</td>
+                <td>'1291.22753956871</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,88</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331643</td>
+                <td>'509430005414</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>687,21</td>
+                <td>687,21</td>
+                <td>687,21</td>                
+                <td>5</td>
+                <td>34,36</td>
+                <td>REGINA RITA DA SILVA MARTINS</td>
+                <td>69367183291</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ALEXANDRE FEITOSA DO NASCIMENTO (Sub-usuário parceiro)</td>
+                <td>'1291.03736942532</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>34,36</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>332223</td>
+                <td>'509430005494</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>600,34</td>
+                <td>600,34</td>
+                <td>600,34</td>                
+                <td>5</td>
+                <td>30,02</td>
+                <td>ROBSON TINOCO FARIAS</td>
+                <td>02562893280</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>KETHLEN DA COSTA BRITO (Sub-usuário parceiro)</td>
+                <td>'1291.03205083237</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>30,02</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331412</td>
+                <td>'509430005394</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>ROSELI BARRETO DA SILVA AZEVEDO</td>
+                <td>03881811761</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>THAMIRES BARRETO DE AZEVEDO (Sub-usuário parceiro)</td>
+                <td>'1291.16312038785</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331395</td>
+                <td>'509430005388</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>581,4</td>
+                <td>581,4</td>
+                <td>581,4</td>                
+                <td>5</td>
+                <td>29,07</td>
+                <td>ROSIMEIRE MARIA THEODORO</td>
+                <td>96925540663</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>LEANDRO DIAS LOPES (Sub-usuário parceiro)</td>
+                <td>'1291.13532941708</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,07</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>331386</td>
+                <td>'509430005380</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>588,94</td>
+                <td>588,94</td>
+                <td>588,94</td>                
+                <td>5</td>
+                <td>29,45</td>
+                <td>ROSIMEIRI DE OLIVEIRA VEIGA</td>
+                <td>02179157010</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>IRIS LIMA DE PAULA RODRIGUES (Sub-usuário parceiro)</td>
+                <td>'1291.11400139635</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>29,45</td>
+            </tr>
+            
+            <tr>
+                <td>CORRESPONDENTE</td>
+                <td>CORBAN</td>
+                <td>50943  </td>
+                <td>THE ONE PRESTACAO DE SERVICOS LTDA</td>
+                <td>334243</td>
+                <td>'509430005556</td>
+                <td>'</td>
+                <td>12</td>
+                <td>149</td>
+                <td>573,9</td>
+                <td>573,9</td>
+                <td>573,9</td>                
+                <td>5</td>
+                <td>28,7</td>
+                <td>SIMONE RAMOS</td>
+                <td>03368132105</td>
+                <td>EM ANALISE</td>
+                <td> PAGO AO CLIENTE                                                                                    </td>
+                <td>08/04/2024 </td>
+                <td>10/04/2024</td>
+                <td>CREFISA</td>
+                <td>Baixa Renda</td>
+                <td>EMPRESTIMO PESSOAL DESC EM CONTA</td>
+                <td>50943 - V8 DIGITAL SISTEMA</td>
+                <td>Não</td>
+                <td>ELIANE CHIODI SOCOLOSKI (Sub-usuário parceiro)</td>
+                <td>'1291.75660482287</td>
+                
+                    <td>NÃO</td>
+                   
+                <td>001 - Novo Contrato</td>      
+                <td>1462</td>    
+                <td>38</td> 
+                <td><center> </center></td>
+                <td><center></center></td>   
+                <td><center></center></td> 
+                <td>NÃO PAGO AO VENDEDOR</td>    
+                <td></td>
+                <td>FINALIZADO</td>    
+                <td>11/04/2024</td>
+                <td>5%</td>
+                <td>28,7</td>
+            </tr>
+            
+        </TABLE>
+        </BODY>
+        </HTML>
+    

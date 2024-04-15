@@ -75,7 +75,7 @@ class get_tables():
         
 
 
-    def __move_file(self, date: datetime.date):
+    def _move_file(self, date: datetime.date):
 
         path_download = f"./download/"
         path_to_move = f'./relatorios/{date.year}/{date.month}'
@@ -97,63 +97,90 @@ class get_tables():
 
     def download(self):
         date_work = self.date
+        
         while date_work  < datetime.date.today():
+           
+            root_path = f'../Importados Storm/02 - COMISSÃO/{date_work.year}/{date_work.month}-{date_work.year}'
+            path_consult = root_path + f"/COMISSÃO CREFISA {date_work.day}-{date_work.month}-{date_work.year}.csv"
+            get_old = False
+            result_exist = os.path.exists(path_consult)
 
-
-            WebDriverWait(self.driver, 50).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#menu4'))).click()
+            if self.get_old_tables:
+                get_old = True
+                result_exist = False
+                
             
-            
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#listaMenu4 > li:nth-child(2) > a:nth-child(1)'))).click()
+            if not result_exist and get_old:
 
-            try:
-                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtAutenticacaoSenhaFinanceira'))).send_keys(self.user_autentiction)
-                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'button.btn:nth-child(2)'))).click()
-                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '.swal2-confirm'))).click()
-            except TimeoutException:
-                pass            
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataInicial'))).clear()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataInicial'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataInicial'))).send_keys(date_work.strftime("%d/%m/%Y"))
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataFinal'))).clear()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataFinal'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataFinal'))).send_keys(date_work.strftime("%d/%m/%Y"))
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoResultado'))).click()
+                try:
+                    WebDriverWait(self.driver, 50).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#menu4'))).click()
+                    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#listaMenu4 > li:nth-child(2) > a:nth-child(1)'))).click()
+                except TimeoutException:
+                    WebDriverWait(self.driver, 50).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#menu4'))).click()
+                    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#listaMenu4 > li:nth-child(2) > a:nth-child(1)'))).click()
+                    
+                
 
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoDeData > option:nth-child(2)'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoDeData > option:nth-child(2)'))).click()
+                try:
+                    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtAutenticacaoSenhaFinanceira'))).send_keys(self.user_autentiction)
+                    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'button.btn:nth-child(2)'))).click()
+                    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '.swal2-confirm'))).click()
+                except TimeoutException:
+                    pass            
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataInicial'))).clear()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataInicial'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataInicial'))).send_keys(date_work.strftime("%d/%m/%Y"))
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataFinal'))).clear()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataFinal'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#txtDataFinal'))).send_keys(date_work.strftime("%d/%m/%Y"))
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoResultado'))).click()
 
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlStatusPagCliente > option:nth-child(3)'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlStatusPagCliente > option:nth-child(3)'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoResultado > option:nth-child(1)'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoResultado > option:nth-child(1)'))).click()
-            WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#btn'))).click()
-            
-            try:
-                allert = self.driver.switch_to.alert
-                self.driver_alert = allert.text
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoDeData > option:nth-child(2)'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoDeData > option:nth-child(2)'))).click()
 
-                if self.driver_alert == 'NENHUM RESULTADO FOI ENCONTRADO.':
-                    print("Sem dados para: ", date_work)
-                    allert.dismiss()
-                    date_work = date_work + datetime.timedelta(days = 1)
-                    continue
-
-                else:
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlStatusPagCliente > option:nth-child(3)'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlStatusPagCliente > option:nth-child(3)'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoResultado > option:nth-child(1)'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#ddlTipoResultado > option:nth-child(1)'))).click()
+                WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#btn'))).click()
+                
+                try:
                     allert = self.driver.switch_to.alert
-                    allert.accept()
-                    p = self.driver.current_window_handle
-                    chwd = self.driver.window_handles
-                    for w in chwd:
+                    self.driver_alert = allert.text
 
-                        if(w!=p):
-                            self.driver.switch_to.window(w)
-                            break
+                    if self.driver_alert == 'NENHUM RESULTADO FOI ENCONTRADO.':
+                        print("Sem dados para: ", date_work)
+                        allert.dismiss()
+                        # Salvando arquivo vazio
+                        fake_data = pd.DataFrame(columns=['#ADE#',
+                                                        '#VALOR_BASE#',
+                                                        '#VALOR_CMS#',
+                                                        '#VALOR_BONUS#',
+                                                        '#PRAZO#',
+                                                        '#DATA_DIGITACAO#',
+                                                        '#CODIGO_TABELA#',
+                                                        '#VALOR_BASE_BRUTO#'])
+                        fake_data.to_csv(path_consult)
+                        date_work = date_work + datetime.timedelta(days = 1)
+                        continue
 
-            except NoAlertPresentException:
-                pass
+                    else:
+                        allert = self.driver.switch_to.alert
+                        allert.accept()
+                        p = self.driver.current_window_handle
+                        chwd = self.driver.window_handles
+                        for w in chwd:
 
-            self.__move_file(date =date_work)
-            date_work
+                            if(w!=p):
+                                self.driver.switch_to.window(w)
+                                break
+
+                except NoAlertPresentException:
+                    pass
+
+                self._move_file(date =date_work)
+            else:
+                print("Get_tables - Data: ", date_work, " já possui relatório para Storm.")
             date_work = date_work + datetime.timedelta(days = 1)
 
         self.driver.quit()
@@ -181,20 +208,37 @@ class work_tables():
             return json_data
 
     def load_table(self):
+        path_to_save = f'../Importados Storm/01 - PRODUÇÃO/{self.date.year}/{self.date.month}-{self.date.year}'
+        make_path = path_to_save + f"/PRODUÇÃO CREFISA {self.date.day}-{self.date.month}-{self.date.year}.csv"
         path_to_read = f"./relatorios/{self.date.year}/{self.date.month}/relatorio_{self.date.day}_{self.date.month}_{self.date.year}.xls" 
-        # path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{'{:02d}'.format(self.date.month)}/pagamento_atrasado_{self.date.year}_{self.date.month}_{self.date.day}.csv" 
-        # path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{'{:02d}'.format(self.date.month)}/pagamento_atrasado_{self.date.year}_{self.date.month}_{self.date.day}.csv" 
         path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{self.date.month}/pagamento_atrasado_{self.date}.csv" 
-        if os.path.exists(path_to_read):
-            dados = pd.read_html(path_to_read, header = 0, thousands='.')
-            dados_lidos = pd.DataFrame(dados[0])
-            if os.path.exists(path_to_read_late_payment):
-                print("Lendo pagamentos atrasados!")
-                late_payment = pd.read_csv(path_to_read_late_payment)
-                print(late_payment.head())
-                dados_lidos = pd.concat([dados_lidos, late_payment])
+        contratos_novos =False
+        contratos_atrasados =False
 
+        
+        if not os.path.exists(make_path):
+            
+            # path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{'{:02d}'.format(self.date.month)}/pagamento_atrasado_{self.date.year}_{self.date.month}_{self.date.day}.csv" 
+            # path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{'{:02d}'.format(self.date.month)}/pagamento_atrasado_{self.date.year}_{self.date.month}_{self.date.day}.csv" 
+            dados_lidos = pd.DataFrame()
+            if os.path.exists(path_to_read):
+                dados = pd.read_html(path_to_read, header = 0, thousands='.')
+                dados_lidos = pd.DataFrame(dados[0])
+                contratos_novos = True
+                # self.process = True
 
+        else:
+            print("Work_tables - Data: ", self.date, "já possui relatório do Storm.")
+
+        if os.path.exists(path_to_read_late_payment):
+            print("Lendo pagamentos atrasados!")
+            late_payment = pd.read_csv(path_to_read_late_payment)
+            print(late_payment.head())
+            dados_lidos = pd.concat([dados_lidos, late_payment])
+            contratos_atrasados = True
+            # self.process = True
+           
+        if contratos_atrasados or contratos_novos:
             self.process = True
             setattr(self, 'dados', dados_lidos)
 
@@ -315,8 +359,9 @@ class contracts_conference():
     def __init__(self, date_work = datetime.date):
         self.process = False
         self.date= date_work 
-        self.load_new_table()
-        self.load_table()
+        
+        
+        self.retorna_dimensao()
         
         
     # Carrega os novos relatórios
@@ -328,7 +373,10 @@ class contracts_conference():
             dados = pd.read_html(path_to_read, header = 0, thousands='.')
             dados_lidos = pd.DataFrame(dados[0])
             self.process = True
-            setattr(self, 'dados_novos', dados_lidos)
+            # setattr(self, 'dados_novos', dados_lidos)
+            return dados_lidos
+        else:
+            return
     
     # Carrega os relatórios usados no storm
     def load_table(self):
@@ -338,24 +386,56 @@ class contracts_conference():
             if os.path.exists(path_to_read):
                 dados = pd.read_html(path_to_read, header = 0, thousands='.')
                 dados_lidos = pd.DataFrame(dados[0])
-                setattr(self, 'dados', dados_lidos)
+                # setattr(self, 'dados', dados_lidos)
+                return dados_lidos
+            else:
+                return
+
+
+    def load_old_payments_reports(self):
+        date_to = self.date
+        date_from = date_to - datetime.timedelta(days = 10)
+        range_date = pd.date_range(start = date_from, end = date_to)
+        old_data_payment = pd.DataFrame()
+        for save_date in range_date:
+            path_to_save = f'../Pagamentos_atrasados/{self.date.year}/{self.date.month}'
+            path_to_save_file = path_to_save + f"/pagamento_atrasado_{save_date}.csv"
+            if os.path.exists(path_to_save):
+                old_data_payment = pd.concat([old_data_payment, pd.read_csv(path_to_save)])
+        return old_data_payment
+        
+                
 
 
     # Verifica se são as mesmas propostas
+    ## na funçãop abaixo, tenho um problema, depois de ler os pagamentos atrasados, por exenplo, dos últimos 4 dias, ele faz
+    ## o relatorio com o dia d-1. Se no dia seguinte tiver atrasados, ele concatena todos e forma um único arquivo até ai, tudo certo. 
+    ## No dia seguinte, quando for rodar novamente, não há trava para que ele leia os mesmos pagamentos trasados, preciso pensar em uma forma
+    ## para que o código não fique repetindo pagamentos atrasados: proposta é ler os relatórios de pagamentosa atrasados
     def retorna_dimensao(self):
         path_to_save = f'../Pagamentos_atrasados/{self.date.year}/{self.date.month}'
         save_date = datetime.date.today() - datetime.timedelta(days = 1)
         path_to_save_file = path_to_save + f"/pagamento_atrasado_{save_date}.csv"
         os.makedirs(path_to_save, exist_ok = True)
+        dados_novos = self.load_new_table()
         if self.process:
-            dados_novos = getattr(self, 'dados_novos')
-            dados = getattr(self, 'dados')
-            propostas_novas = dados_novos.NUMERO_ADE.map(lambda x: x.replace("'", ""))
-            propostas = dados.NUMERO_ADE.map(lambda x: x.replace("'", ""))
-            result = list(set(propostas_novas) - set(propostas))
-            dados_novos['NUMERO_ADE'] = dados_novos['NUMERO_ADE'].map(lambda x: x.replace("'", ""))
-            filtrados = dados_novos[dados_novos['NUMERO_ADE'].isin(result)]
-            print("Propostas pagas em atraso foram encontradas!")
+            dados = self.load_table()
+            if dados is not None:
+                propostas_novas = dados_novos.NUMERO_ADE.map(lambda x: x.replace("'", ""))
+                propostas = dados.NUMERO_ADE.map(lambda x: x.replace("'", ""))
+                result = list(set(propostas_novas) - set(propostas))
+
+                # inserir aqui a operação com os pagamentos atrasados
+                old_data_payment = self.load_old_payments_reports()
+                if not old_data_payment.empty:
+                    propostas_antigas = old_data_payment.NUMERO_ADE.map(lambda x: x.replace("'", ""))
+                    result = list(set(result) - set(propostas_antigas))
+
+                dados_novos['NUMERO_ADE'] = dados_novos['NUMERO_ADE'].map(lambda x: x.replace("'", ""))
+                filtrados = dados_novos[dados_novos['NUMERO_ADE'].isin(result)]
+                print("Propostas pagas em atraso foram encontradas!")
+            else:
+                filtrados = dados_novos
             if os.path.exists(path_to_save_file):
                 filtrados = pd.concat([filtrados, pd.read_csv(path_to_save_file)])
             filtrados.to_csv(path_to_save_file, index = False)
