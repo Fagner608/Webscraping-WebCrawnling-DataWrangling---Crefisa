@@ -216,11 +216,11 @@ class work_tables():
         contratos_atrasados =False
 
         
+        dados_lidos = pd.DataFrame()
         if not os.path.exists(make_path):
             
             # path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{'{:02d}'.format(self.date.month)}/pagamento_atrasado_{self.date.year}_{self.date.month}_{self.date.day}.csv" 
             # path_to_read_late_payment = f"../Pagamentos_atrasados/{self.date.year}/{'{:02d}'.format(self.date.month)}/pagamento_atrasado_{self.date.year}_{self.date.month}_{self.date.day}.csv" 
-            dados_lidos = pd.DataFrame()
             if os.path.exists(path_to_read):
                 dados = pd.read_html(path_to_read, header = 0, thousands='.')
                 dados_lidos = pd.DataFrame(dados[0])
@@ -230,6 +230,7 @@ class work_tables():
         else:
             print("Work_tables - Data: ", self.date, "já possui relatório do Storm.")
 
+            
         if os.path.exists(path_to_read_late_payment):
             print("Lendo pagamentos atrasados!")
             late_payment = pd.read_csv(path_to_read_late_payment)
@@ -383,6 +384,7 @@ class contracts_conference():
         path_new_reports =  f"./relatorios/{self.date.year}/{self.date.month}"
         path_to_read = path_new_reports + f"/relatorio_{self.date.day}_{self.date.month}_{self.date.year}.xls" 
         if self.process:
+            print(path_new_reports)
             if os.path.exists(path_to_read):
                 dados = pd.read_html(path_to_read, header = 0, thousands='.')
                 dados_lidos = pd.DataFrame(dados[0])
@@ -398,7 +400,8 @@ class contracts_conference():
         range_date = pd.date_range(start = date_from, end = date_to)
         old_data_payment = pd.DataFrame()
         for save_date in range_date:
-            path_to_save = f'../Pagamentos_atrasados/{self.date.year}/{self.date.month}'
+            # path_to_save = f'../Pagamentos_atrasados/{self.date.year}/{self.date.month}'
+            path_to_save = f'../Pagamentos_atrasados/{save_date.year}/{save_date.month}'
             path_to_save_file = path_to_save + f"/pagamento_atrasado_{save_date}.csv"
             if os.path.exists(path_to_save):
                 old_data_payment = pd.concat([old_data_payment, pd.read_csv(path_to_save)])
@@ -415,7 +418,7 @@ class contracts_conference():
     def retorna_dimensao(self):
         path_to_save = f'../Pagamentos_atrasados/{self.date.year}/{self.date.month}'
         save_date = datetime.date.today() - datetime.timedelta(days = 1)
-        path_to_save_file = path_to_save + f"/pagamento_atrasado_{save_date}.csv"
+        path_to_save_file = path_to_save + f"/pagamento_atrasado_{self.date}.csv"
         os.makedirs(path_to_save, exist_ok = True)
         dados_novos = self.load_new_table()
         if self.process:
@@ -432,6 +435,10 @@ class contracts_conference():
                     result = list(set(result) - set(propostas_antigas))
 
                 dados_novos['NUMERO_ADE'] = dados_novos['NUMERO_ADE'].map(lambda x: x.replace("'", ""))
+
+                print(dados_novos.tail(5))
+                print(result.tail(5))
+
                 filtrados = dados_novos[dados_novos['NUMERO_ADE'].isin(result)]
                 print("Propostas pagas em atraso foram encontradas!")
             else:

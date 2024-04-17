@@ -1,0 +1,4246 @@
+
+
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+        <HTML>
+        <HEAD>
+            <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <TITLE>Untitled Document</TITLE>
+        </HEAD>
+        <BODY>
+        <TABLE BORDER="1">
+            <tr>
+                <TD><B>Codigo_Vendedor</B></TD>
+                <TD><B>Nome_Vendedor</B></TD>
+                <TD><B>CPF_Cnpj</B></TD>
+                <TD><B>Tipo</B></TD>
+                <TD><B>CpfCliente</B></TD>
+                <TD><B>NomeCliente</B></TD>
+                <TD><B>Contratoid</B></TD>
+                <TD><B>Data_Digitacao_Banco</B></TD>
+                <TD><B>Data_Pagamento_Cliente</B></TD>
+                <TD><B>Usuario_Digitador_Nome</B></TD>
+                <TD><B>Usuario_Digitador_Login</B></TD>
+                <TD><B>TipoContrato</B></TD>
+                <TD><B>Banco</B></TD>
+                <TD><B>Convenio</B></TD>
+                <TD><B>Tabela</B></TD>
+                <TD><B>Num_Proposta</B></TD>
+                <TD><B>Num_Contrato</B></TD>
+                <TD><B>Vlr_Bruto</B></TD>
+                <TD><B>Vlr_Liquido</B></TD>
+                <TD><B>Vlr_Parcela</B></TD>
+                <TD><B>Prazo</B></TD>
+                <TD><B>Parcela_Paga</B></TD>
+                <TD><B>Perc_Pagamento_Comissao</B></TD>
+                <TD><B>Vlr_Pagamento_Comissao</B></TD>
+                <TD><B>Data_Pagamento_Comissao</B></TD>
+
+            </tr>
+        
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>00634624270</TD>
+                <TD>KETHLEM CAVALCANTE CRUZ</TD>
+                <TD>332208</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>FABIANA CRISTINA DA SILVA BRAZ DE OLIVEIRA</TD>
+                <TD>'1291.27779080870</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005477</TD>
+                <TD></TD>
+                <TD>585,14</TD>
+                <TD>585,14</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,257</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>01541288300</TD>
+                <TD>ANTONIA CLECIA FERREIRA DE OLIVEIRA</TD>
+                <TD>331761</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>TUANI DA SILVA MAZORCA</TD>
+                <TD>'1291.47564655879</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005424</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>01810728150</TD>
+                <TD>DEISILAINE DUTRA DOS SANTOS</TD>
+                <TD>332239</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005485</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>01893470237</TD>
+                <TD>INGRID ARIELY ALVES FERREIRA</TD>
+                <TD>331193</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005359</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>02179157010</TD>
+                <TD>ROSIMEIRI DE OLIVEIRA VEIGA</TD>
+                <TD>331386</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>IRIS LIMA DE PAULA RODRIGUES</TD>
+                <TD>'1291.11400139635</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005380</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>02196660833</TD>
+                <TD>ESMERALDA DE ALMEIDA SILVA</TD>
+                <TD>332603</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LARISSA CASTILHO DELGADO</TD>
+                <TD>'1291.11282482718</TD>
+                <TD>011 - ANTECIPAÇÃO 1ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º -ANTECIPAÇÃO</TD>
+                <TD>509430005515</TD>
+                <TD></TD>
+                <TD>500</TD>
+                <TD>500</TD>
+                <TD>645,39</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>6</TD>
+                <TD>30</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>02562893280</TD>
+                <TD>ROBSON TINOCO FARIAS</TD>
+                <TD>332223</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>KETHLEN DA COSTA BRITO</TD>
+                <TD>'1291.03205083237</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005494</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>02701009030</TD>
+                <TD>IASMIM TAINA MACHADO DE OLIVEIRA TRETTIM</TD>
+                <TD>332381</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ARIANE HENDGES</TD>
+                <TD>'1291.07524793936</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005493</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03352215057</TD>
+                <TD>CATIELE POLTRONIERI PELICIONI</TD>
+                <TD>328882</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005287</TD>
+                <TD></TD>
+                <TD>577,67</TD>
+                <TD>577,67</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8835</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03360459059</TD>
+                <TD>ALINE JULIANE SILVA DA SILVA</TD>
+                <TD>336723</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005543</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03368132105</TD>
+                <TD>SIMONE RAMOS</TD>
+                <TD>334243</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ELIANE CHIODI SOCOLOSKI</TD>
+                <TD>'1291.75660482287</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005556</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03504458500</TD>
+                <TD>EDNA MARTINS DOS SANTOS</TD>
+                <TD>334263</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ARIANE HENDGES</TD>
+                <TD>'1291.07524793936</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005559</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03704441082</TD>
+                <TD>ALESSANDRA NUNES SOARES</TD>
+                <TD>334233</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>THIAGO DA COSTA SILVA</TD>
+                <TD>'1291.03822135135</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005557</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03881811761</TD>
+                <TD>ROSELI BARRETO DA SILVA AZEVEDO</TD>
+                <TD>331412</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>THAMIRES BARRETO DE AZEVEDO</TD>
+                <TD>'1291.16312038785</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005394</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>03981069080</TD>
+                <TD>ANDERSON PALMA DE MORAES DIAS</TD>
+                <TD>331974</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>FLAVIO FACCO</TD>
+                <TD>'1291.00830350012</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005474</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>04142202006</TD>
+                <TD>ANDRESSA GABRIELE GOLIONES DO PRADO</TD>
+                <TD>334248</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ROGÉRIO CHAGAS LARANJEIRA</TD>
+                <TD>'1291.86566270744</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005553</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>04970176108</TD>
+                <TD>BEATRIZ SANTOS LIMA</TD>
+                <TD>334121</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>THIAGO DA COSTA SILVA</TD>
+                <TD>'1291.03822135135</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005546</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>05094951688</TD>
+                <TD>WELLISON NICODEMOS DA SILVA</TD>
+                <TD>325257</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005260</TD>
+                <TD></TD>
+                <TD>570,29</TD>
+                <TD>570,29</TD>
+                <TD>148,05</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,5145</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>05410575105</TD>
+                <TD>ESTEFHANE CHAUANE  SANTIAGO DE JESUS</TD>
+                <TD>336763</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005542</TD>
+                <TD></TD>
+                <TD>669,83</TD>
+                <TD>669,83</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4915</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>05463749566</TD>
+                <TD>JAQUELINE DA SILVA VAZ</TD>
+                <TD>328922</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>JEFERSON PORTO LIMA</TD>
+                <TD>'1291.04742408519</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005288</TD>
+                <TD></TD>
+                <TD>669,85</TD>
+                <TD>669,85</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4925</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>05655543796</TD>
+                <TD>PATRICIA MORAES DINIZ</TD>
+                <TD>336735</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005551</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>06459346585</TD>
+                <TD>ADRIA TAINAR SOARES SANTANA</TD>
+                <TD>331419</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>HARIANE ALVES FEITOZA</TD>
+                <TD>'1291.42153861870</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005382</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>06548546709</TD>
+                <TD>MATHEUS RIBEIRO DA SILVA</TD>
+                <TD>325312</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005261</TD>
+                <TD></TD>
+                <TD>573,98</TD>
+                <TD>573,98</TD>
+                <TD>148,05</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,699</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>06770067641</TD>
+                <TD>BEATRIZ DE SOUZA ARAUJO</TD>
+                <TD>325466</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005270</TD>
+                <TD></TD>
+                <TD>540,83</TD>
+                <TD>540,83</TD>
+                <TD>149</TD>
+                <TD>10</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>27,0415</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>07192895997</TD>
+                <TD>JAQUELINE DA SILVA SANTOS</TD>
+                <TD>332803</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LARISSA MEWES</TD>
+                <TD>'1291.07385265928</TD>
+                <TD>013 - ANTECIPAÇÃO 2ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</TD>
+                <TD>509430005532</TD>
+                <TD></TD>
+                <TD>199,42</TD>
+                <TD>199,42</TD>
+                <TD>315,7</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>6</TD>
+                <TD>11,9652</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>07713520775</TD>
+                <TD>CLAUDIA MARIA NUNES DE OLIVEIRA</TD>
+                <TD>332232</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRO MERCES DE OLIVEIRA</TD>
+                <TD>'1291.01686949561</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005491</TD>
+                <TD></TD>
+                <TD>699,24</TD>
+                <TD>699,24</TD>
+                <TD>239,1</TD>
+                <TD>6</TD>
+                <TD>0</TD>
+                <TD>6</TD>
+                <TD>41,9544</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>08547879331</TD>
+                <TD>CLEITIANE RIBEIRO DE FREITAS</TD>
+                <TD>332294</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>NAIARA NOGUEIRA NICOLAU</TD>
+                <TD>'1291.06274779337</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005487</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>08687291833</TD>
+                <TD>ANA LUCIA DE SOUSA CARVALHO</TD>
+                <TD>337350</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LAIANE BARBOSA VIANNA</TD>
+                <TD>'1291.47599351850</TD>
+                <TD>011 - ANTECIPAÇÃO 1ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º -ANTECIPAÇÃO</TD>
+                <TD>509430005888</TD>
+                <TD></TD>
+                <TD>990,04</TD>
+                <TD>990,04</TD>
+                <TD>1199,26</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>6</TD>
+                <TD>59,4024</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>08687291833</TD>
+                <TD>ANA LUCIA DE SOUSA CARVALHO</TD>
+                <TD>338169</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LAIANE BARBOSA VIANNA</TD>
+                <TD>'1291.47599351850</TD>
+                <TD>013 - ANTECIPAÇÃO 2ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</TD>
+                <TD>509430005914</TD>
+                <TD></TD>
+                <TD>786,92</TD>
+                <TD>786,92</TD>
+                <TD>1165,81</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>6</TD>
+                <TD>47,2152</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>08693562754</TD>
+                <TD>ALINE ESTEVES SILVA</TD>
+                <TD>334129</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005541</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>09397862901</TD>
+                <TD>MARLON MACHADO</TD>
+                <TD>328969</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>ROGÉRIO CHAGAS LARANJEIRA</TD>
+                <TD>'1291.86566270744</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005292</TD>
+                <TD></TD>
+                <TD>596,48</TD>
+                <TD>596,48</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,824</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>09445464397</TD>
+                <TD>ANALICE SILVA AZEVEDO</TD>
+                <TD>325063</TD>
+                <TD>05/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005255</TD>
+                <TD></TD>
+                <TD>687,23</TD>
+                <TD>687,23</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3615</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>10175758433</TD>
+                <TD>CARLA  MARIA PAULINO DOS SANTOS</TD>
+                <TD>332017</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MARIA DEISIANE DO NASCIMENTO SILVA LANDIM</TD>
+                <TD>'1291.04133850351</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005452</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>10739812580</TD>
+                <TD>LUANA DAS NEVE AZEVEDO</TD>
+                <TD>325602</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>JEFERSON PORTO LIMA</TD>
+                <TD>'1291.04742408519</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005275</TD>
+                <TD></TD>
+                <TD>669,85</TD>
+                <TD>669,85</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4925</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11028358970</TD>
+                <TD>CAROLINE BAGESTON BIER</TD>
+                <TD>331948</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005475</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11184651647</TD>
+                <TD>GRAZIANE CRISTINE FERREIRA DOS  SANTOS</TD>
+                <TD>331852</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>VANDERLEY SOARES JUNIOR</TD>
+                <TD>'1291.09866180638</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005430</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11241848998</TD>
+                <TD>CAROLINE DA SILVA</TD>
+                <TD>331295</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>IRIS LIMA DE PAULA RODRIGUES</TD>
+                <TD>'1291.11400139635</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005364</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11295067625</TD>
+                <TD>LUZIANE CAROLINA FAGUNDES PEREIRA</TD>
+                <TD>331160</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ROSILENE DOS SANTOS LEAL</TD>
+                <TD>'1291.53644530653</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005375</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11465114939</TD>
+                <TD>JULIA DE OLIVEIRA</TD>
+                <TD>332396</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>RICARDO LEONARDO DA SILVA</TD>
+                <TD>'1291.04318557901</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005492</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11513193686</TD>
+                <TD>ESTER ALVES DE SOUZA</TD>
+                <TD>331154</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>GLEYCE RIBEIR</TD>
+                <TD>'1291.23336866855</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005363</TD>
+                <TD></TD>
+                <TD>585,14</TD>
+                <TD>585,14</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,257</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>11803643412</TD>
+                <TD>GILSON DOS SANTOS CAMPELO</TD>
+                <TD>331631</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>TIAGO LISBOA DO SACRAMENTO</TD>
+                <TD>'1291.01438308485</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005410</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>12556385405</TD>
+                <TD>MAILANY DAIENE DA SILVA</TD>
+                <TD>331661</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>EVERALDO BAPTISTA VICENTE</TD>
+                <TD>'1291.02742796738</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005419</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>14543892739</TD>
+                <TD>LUDMILA BRAGA CORREA</TD>
+                <TD>325059</TD>
+                <TD>05/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>VANESSA CARVALHO DA SILVA</TD>
+                <TD>'1291.10297491750</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005254</TD>
+                <TD></TD>
+                <TD>669,85</TD>
+                <TD>669,85</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4925</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>15760054880</TD>
+                <TD>ELIANA DE FATIMA DOMINGOS</TD>
+                <TD>325258</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005262</TD>
+                <TD></TD>
+                <TD>540,83</TD>
+                <TD>540,83</TD>
+                <TD>149</TD>
+                <TD>10</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>27,0415</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>15842685493</TD>
+                <TD>MARIA DE LOURDES DO NASCIMENTO SILVA</TD>
+                <TD>331816</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>REGIANE MARTINS ATOUNOUVI</TD>
+                <TD>'1291.02916945431</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005423</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>16236956782</TD>
+                <TD>KATHLEEN RIBEIRO DA SILVA</TD>
+                <TD>325452</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005267</TD>
+                <TD></TD>
+                <TD>682,79</TD>
+                <TD>682,79</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,1395</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>16313407784</TD>
+                <TD>JESSIKA CRISTINA BARBOSA DA SILVA</TD>
+                <TD>328822</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MARCELA SILVA ARGOLO</TD>
+                <TD>'1291.85770943599</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005280</TD>
+                <TD></TD>
+                <TD>596,48</TD>
+                <TD>596,48</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,824</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>17091913760</TD>
+                <TD>MAYARA STEFANY MARTINS DOS SANTOS</TD>
+                <TD>332247</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005488</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>17144675702</TD>
+                <TD>JESSICA JOELMA DOS SANTOS MARIANO</TD>
+                <TD>338173</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005907</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>17292945619</TD>
+                <TD>FABRICIA SOARES DE MATOS</TD>
+                <TD>331863</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005438</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>18156001796</TD>
+                <TD>KESIA MARCELINO DOS SANTOS</TD>
+                <TD>331302</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>PATRIQUI GUIMARÃES DIAS</TD>
+                <TD>'1291.39953662878</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005356</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>20079335780</TD>
+                <TD>BEATRIZ SANTOS LOPES</TD>
+                <TD>334274</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005561</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>24168215806</TD>
+                <TD>ALINE DIAS DE JESUS</TD>
+                <TD>331145</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005352</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>29265412879</TD>
+                <TD>RENATA APARECIDA GONCALVES</TD>
+                <TD>328960</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005290</TD>
+                <TD></TD>
+                <TD>528,11</TD>
+                <TD>528,11</TD>
+                <TD>149</TD>
+                <TD>9</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>26,4055</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>33199472818</TD>
+                <TD>MARIANA CRISTINA DA SILVA HERCULANA</TD>
+                <TD>331403</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005385</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>38230972885</TD>
+                <TD>CLEIDIANE MARTINS RAMOS</TD>
+                <TD>334136</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005550</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>38838267820</TD>
+                <TD>ELEN CRISTINA JESUS DA SILVA</TD>
+                <TD>331045</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>EDUARDO DOS SANTOS VITORIO</TD>
+                <TD>'1291.41712672851</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005328</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>39683079172</TD>
+                <TD>IVANI VIEIRA DE BESSA DE OLIVEIRA</TD>
+                <TD>340351</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>SAMAR JAROUSH</TD>
+                <TD>'1291.47038016806</TD>
+                <TD>013 - ANTECIPAÇÃO 2ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</TD>
+                <TD>509430006001</TD>
+                <TD></TD>
+                <TD>354,35</TD>
+                <TD>354,35</TD>
+                <TD>494,2</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>6</TD>
+                <TD>21,261</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>42494224888</TD>
+                <TD>MARIANA GRACIANO MARTINS</TD>
+                <TD>331439</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005386</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>42590781865</TD>
+                <TD>LYGIA MARA PUERTA ALVES</TD>
+                <TD>325631</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MARCELA SILVA ARGOLO</TD>
+                <TD>'1291.85770943599</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005276</TD>
+                <TD></TD>
+                <TD>682,79</TD>
+                <TD>682,79</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,1395</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>45038028870</TD>
+                <TD>JOYCE MOREIRA DOS SANTOS LAPA</TD>
+                <TD>332306</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005490</TD>
+                <TD></TD>
+                <TD>585,14</TD>
+                <TD>585,14</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,257</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>47625831892</TD>
+                <TD>LARISSA KAROLINE ALINA</TD>
+                <TD>331189</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005365</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>48507429807</TD>
+                <TD>LETICIA GABRIELLA CAETANO PEREIRA</TD>
+                <TD>332231</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005479</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>49379776870</TD>
+                <TD>ANDRESSA DA SILVA JACINTO</TD>
+                <TD>331211</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>BEATRIZ BRANDAO ROCHA</TD>
+                <TD>'1291.40138051895</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005377</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>53300130387</TD>
+                <TD>MARIA DO LIVRAMENTO DA SILVA DE OLIVEIRA</TD>
+                <TD>334226</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005558</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>60714810312</TD>
+                <TD>NATHALIA COSTA DOS SANTOS</TD>
+                <TD>325405</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005266</TD>
+                <TD></TD>
+                <TD>592,64</TD>
+                <TD>592,64</TD>
+                <TD>148,04</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,632</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>68151993049</TD>
+                <TD>ELIZETE RODRIGUES MEDEIROS</TD>
+                <TD>338530</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005939</TD>
+                <TD></TD>
+                <TD>669,84</TD>
+                <TD>669,84</TD>
+                <TD>148,04</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,492</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>69367183291</TD>
+                <TD>REGINA RITA DA SILVA MARTINS</TD>
+                <TD>331643</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005414</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>70671029100</TD>
+                <TD>ANA KAROLYNA BARBOSA DE SOUZA</TD>
+                <TD>331826</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005443</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>70852572450</TD>
+                <TD>DHARINKA CAROLINE DA CRUZ SILVA</TD>
+                <TD>331481</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MARCELA SILVA ARGOLO</TD>
+                <TD>'1291.85770943599</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005393</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>83282785291</TD>
+                <TD>IBSA ARAUJO DA COSTA</TD>
+                <TD>325273</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>KETHLEN DA COSTA BRITO</TD>
+                <TD>'1291.03205083237</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005264</TD>
+                <TD></TD>
+                <TD>585,16</TD>
+                <TD>585,16</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,258</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>85279528072</TD>
+                <TD>ANDRIELE SARAIVA COSTA</TD>
+                <TD>328874</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005283</TD>
+                <TD></TD>
+                <TD>682,79</TD>
+                <TD>682,79</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,1395</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>86575193560</TD>
+                <TD>BRUNA CHUNG MOURA</TD>
+                <TD>332378</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ELTON LEANDRO DOS SANTOS</TD>
+                <TD>'1291.02363989546</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005484</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>93190255253</TD>
+                <TD>MILANE DA CRUZ MIRANDA</TD>
+                <TD>334144</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005545</TD>
+                <TD></TD>
+                <TD>669,83</TD>
+                <TD>669,83</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4915</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>À Vista</TD>
+                <TD>96925540663</TD>
+                <TD>ROSIMEIRE MARIA THEODORO</TD>
+                <TD>331395</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005388</TD>
+                <TD></TD>
+                <TD>581,4</TD>
+                <TD>581,4</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,07</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>00634624270</TD>
+                <TD>KETHLEM CAVALCANTE CRUZ</TD>
+                <TD>332208</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>FABIANA CRISTINA DA SILVA BRAZ DE OLIVEIRA</TD>
+                <TD>'1291.27779080870</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005477</TD>
+                <TD></TD>
+                <TD>585,14</TD>
+                <TD>585,14</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,257</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>01541288300</TD>
+                <TD>ANTONIA CLECIA FERREIRA DE OLIVEIRA</TD>
+                <TD>331761</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>TUANI DA SILVA MAZORCA</TD>
+                <TD>'1291.47564655879</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005424</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>01810728150</TD>
+                <TD>DEISILAINE DUTRA DOS SANTOS</TD>
+                <TD>332239</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005485</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>01893470237</TD>
+                <TD>INGRID ARIELY ALVES FERREIRA</TD>
+                <TD>331193</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005359</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>02179157010</TD>
+                <TD>ROSIMEIRI DE OLIVEIRA VEIGA</TD>
+                <TD>331386</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>IRIS LIMA DE PAULA RODRIGUES</TD>
+                <TD>'1291.11400139635</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005380</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>02196660833</TD>
+                <TD>ESMERALDA DE ALMEIDA SILVA</TD>
+                <TD>332603</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LARISSA CASTILHO DELGADO</TD>
+                <TD>'1291.11282482718</TD>
+                <TD>011 - ANTECIPAÇÃO 1ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º -ANTECIPAÇÃO</TD>
+                <TD>509430005515</TD>
+                <TD></TD>
+                <TD>500</TD>
+                <TD>500</TD>
+                <TD>645,39</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>14</TD>
+                <TD>70</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>02562893280</TD>
+                <TD>ROBSON TINOCO FARIAS</TD>
+                <TD>332223</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>KETHLEN DA COSTA BRITO</TD>
+                <TD>'1291.03205083237</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005494</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>02701009030</TD>
+                <TD>IASMIM TAINA MACHADO DE OLIVEIRA TRETTIM</TD>
+                <TD>332381</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ARIANE HENDGES</TD>
+                <TD>'1291.07524793936</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005493</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03352215057</TD>
+                <TD>CATIELE POLTRONIERI PELICIONI</TD>
+                <TD>328882</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005287</TD>
+                <TD></TD>
+                <TD>577,67</TD>
+                <TD>577,67</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8835</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03360459059</TD>
+                <TD>ALINE JULIANE SILVA DA SILVA</TD>
+                <TD>336723</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005543</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03368132105</TD>
+                <TD>SIMONE RAMOS</TD>
+                <TD>334243</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ELIANE CHIODI SOCOLOSKI</TD>
+                <TD>'1291.75660482287</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005556</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03504458500</TD>
+                <TD>EDNA MARTINS DOS SANTOS</TD>
+                <TD>334263</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ARIANE HENDGES</TD>
+                <TD>'1291.07524793936</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005559</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03704441082</TD>
+                <TD>ALESSANDRA NUNES SOARES</TD>
+                <TD>334233</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>THIAGO DA COSTA SILVA</TD>
+                <TD>'1291.03822135135</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005557</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03881811761</TD>
+                <TD>ROSELI BARRETO DA SILVA AZEVEDO</TD>
+                <TD>331412</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>THAMIRES BARRETO DE AZEVEDO</TD>
+                <TD>'1291.16312038785</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005394</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>03981069080</TD>
+                <TD>ANDERSON PALMA DE MORAES DIAS</TD>
+                <TD>331974</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>FLAVIO FACCO</TD>
+                <TD>'1291.00830350012</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005474</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>04142202006</TD>
+                <TD>ANDRESSA GABRIELE GOLIONES DO PRADO</TD>
+                <TD>334248</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ROGÉRIO CHAGAS LARANJEIRA</TD>
+                <TD>'1291.86566270744</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005553</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>04970176108</TD>
+                <TD>BEATRIZ SANTOS LIMA</TD>
+                <TD>334121</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>THIAGO DA COSTA SILVA</TD>
+                <TD>'1291.03822135135</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005546</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>05094951688</TD>
+                <TD>WELLISON NICODEMOS DA SILVA</TD>
+                <TD>325257</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005260</TD>
+                <TD></TD>
+                <TD>570,29</TD>
+                <TD>570,29</TD>
+                <TD>148,05</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,5145</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>05410575105</TD>
+                <TD>ESTEFHANE CHAUANE  SANTIAGO DE JESUS</TD>
+                <TD>336763</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005542</TD>
+                <TD></TD>
+                <TD>669,83</TD>
+                <TD>669,83</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4915</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>05463749566</TD>
+                <TD>JAQUELINE DA SILVA VAZ</TD>
+                <TD>328922</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>JEFERSON PORTO LIMA</TD>
+                <TD>'1291.04742408519</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005288</TD>
+                <TD></TD>
+                <TD>669,85</TD>
+                <TD>669,85</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4925</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>05655543796</TD>
+                <TD>PATRICIA MORAES DINIZ</TD>
+                <TD>336735</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005551</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>06459346585</TD>
+                <TD>ADRIA TAINAR SOARES SANTANA</TD>
+                <TD>331419</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>HARIANE ALVES FEITOZA</TD>
+                <TD>'1291.42153861870</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005382</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>06548546709</TD>
+                <TD>MATHEUS RIBEIRO DA SILVA</TD>
+                <TD>325312</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005261</TD>
+                <TD></TD>
+                <TD>573,98</TD>
+                <TD>573,98</TD>
+                <TD>148,05</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,699</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>06770067641</TD>
+                <TD>BEATRIZ DE SOUZA ARAUJO</TD>
+                <TD>325466</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005270</TD>
+                <TD></TD>
+                <TD>540,83</TD>
+                <TD>540,83</TD>
+                <TD>149</TD>
+                <TD>10</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>27,0415</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>07192895997</TD>
+                <TD>JAQUELINE DA SILVA SANTOS</TD>
+                <TD>332803</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LARISSA MEWES</TD>
+                <TD>'1291.07385265928</TD>
+                <TD>013 - ANTECIPAÇÃO 2ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</TD>
+                <TD>509430005532</TD>
+                <TD></TD>
+                <TD>199,42</TD>
+                <TD>199,42</TD>
+                <TD>315,7</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>14</TD>
+                <TD>27,9188</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>07713520775</TD>
+                <TD>CLAUDIA MARIA NUNES DE OLIVEIRA</TD>
+                <TD>332232</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRO MERCES DE OLIVEIRA</TD>
+                <TD>'1291.01686949561</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005491</TD>
+                <TD></TD>
+                <TD>699,24</TD>
+                <TD>699,24</TD>
+                <TD>239,1</TD>
+                <TD>6</TD>
+                <TD>0</TD>
+                <TD>14</TD>
+                <TD>97,89359</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>08547879331</TD>
+                <TD>CLEITIANE RIBEIRO DE FREITAS</TD>
+                <TD>332294</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>NAIARA NOGUEIRA NICOLAU</TD>
+                <TD>'1291.06274779337</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005487</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>08687291833</TD>
+                <TD>ANA LUCIA DE SOUSA CARVALHO</TD>
+                <TD>337350</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LAIANE BARBOSA VIANNA</TD>
+                <TD>'1291.47599351850</TD>
+                <TD>011 - ANTECIPAÇÃO 1ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º -ANTECIPAÇÃO</TD>
+                <TD>509430005888</TD>
+                <TD></TD>
+                <TD>990,04</TD>
+                <TD>990,04</TD>
+                <TD>1199,26</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>14</TD>
+                <TD>138,6056</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>08687291833</TD>
+                <TD>ANA LUCIA DE SOUSA CARVALHO</TD>
+                <TD>338169</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LAIANE BARBOSA VIANNA</TD>
+                <TD>'1291.47599351850</TD>
+                <TD>013 - ANTECIPAÇÃO 2ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</TD>
+                <TD>509430005914</TD>
+                <TD></TD>
+                <TD>786,92</TD>
+                <TD>786,92</TD>
+                <TD>1165,81</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>14</TD>
+                <TD>110,1688</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>08693562754</TD>
+                <TD>ALINE ESTEVES SILVA</TD>
+                <TD>334129</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005541</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>09397862901</TD>
+                <TD>MARLON MACHADO</TD>
+                <TD>328969</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>ROGÉRIO CHAGAS LARANJEIRA</TD>
+                <TD>'1291.86566270744</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005292</TD>
+                <TD></TD>
+                <TD>596,48</TD>
+                <TD>596,48</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,824</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>09445464397</TD>
+                <TD>ANALICE SILVA AZEVEDO</TD>
+                <TD>325063</TD>
+                <TD>05/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005255</TD>
+                <TD></TD>
+                <TD>687,23</TD>
+                <TD>687,23</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3615</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>10175758433</TD>
+                <TD>CARLA  MARIA PAULINO DOS SANTOS</TD>
+                <TD>332017</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MARIA DEISIANE DO NASCIMENTO SILVA LANDIM</TD>
+                <TD>'1291.04133850351</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005452</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>10739812580</TD>
+                <TD>LUANA DAS NEVE AZEVEDO</TD>
+                <TD>325602</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>JEFERSON PORTO LIMA</TD>
+                <TD>'1291.04742408519</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005275</TD>
+                <TD></TD>
+                <TD>669,85</TD>
+                <TD>669,85</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4925</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11028358970</TD>
+                <TD>CAROLINE BAGESTON BIER</TD>
+                <TD>331948</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005475</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11184651647</TD>
+                <TD>GRAZIANE CRISTINE FERREIRA DOS  SANTOS</TD>
+                <TD>331852</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>VANDERLEY SOARES JUNIOR</TD>
+                <TD>'1291.09866180638</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005430</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11241848998</TD>
+                <TD>CAROLINE DA SILVA</TD>
+                <TD>331295</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>IRIS LIMA DE PAULA RODRIGUES</TD>
+                <TD>'1291.11400139635</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005364</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11295067625</TD>
+                <TD>LUZIANE CAROLINA FAGUNDES PEREIRA</TD>
+                <TD>331160</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ROSILENE DOS SANTOS LEAL</TD>
+                <TD>'1291.53644530653</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005375</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11465114939</TD>
+                <TD>JULIA DE OLIVEIRA</TD>
+                <TD>332396</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>RICARDO LEONARDO DA SILVA</TD>
+                <TD>'1291.04318557901</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005492</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11513193686</TD>
+                <TD>ESTER ALVES DE SOUZA</TD>
+                <TD>331154</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>GLEYCE RIBEIR</TD>
+                <TD>'1291.23336866855</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005363</TD>
+                <TD></TD>
+                <TD>585,14</TD>
+                <TD>585,14</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,257</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>11803643412</TD>
+                <TD>GILSON DOS SANTOS CAMPELO</TD>
+                <TD>331631</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>TIAGO LISBOA DO SACRAMENTO</TD>
+                <TD>'1291.01438308485</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005410</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>12556385405</TD>
+                <TD>MAILANY DAIENE DA SILVA</TD>
+                <TD>331661</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>EVERALDO BAPTISTA VICENTE</TD>
+                <TD>'1291.02742796738</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005419</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>14543892739</TD>
+                <TD>LUDMILA BRAGA CORREA</TD>
+                <TD>325059</TD>
+                <TD>05/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>VANESSA CARVALHO DA SILVA</TD>
+                <TD>'1291.10297491750</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005254</TD>
+                <TD></TD>
+                <TD>669,85</TD>
+                <TD>669,85</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4925</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>15760054880</TD>
+                <TD>ELIANA DE FATIMA DOMINGOS</TD>
+                <TD>325258</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005262</TD>
+                <TD></TD>
+                <TD>540,83</TD>
+                <TD>540,83</TD>
+                <TD>149</TD>
+                <TD>10</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>27,0415</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>15842685493</TD>
+                <TD>MARIA DE LOURDES DO NASCIMENTO SILVA</TD>
+                <TD>331816</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>REGIANE MARTINS ATOUNOUVI</TD>
+                <TD>'1291.02916945431</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005423</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>16236956782</TD>
+                <TD>KATHLEEN RIBEIRO DA SILVA</TD>
+                <TD>325452</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005267</TD>
+                <TD></TD>
+                <TD>682,79</TD>
+                <TD>682,79</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,1395</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>16313407784</TD>
+                <TD>JESSIKA CRISTINA BARBOSA DA SILVA</TD>
+                <TD>328822</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MARCELA SILVA ARGOLO</TD>
+                <TD>'1291.85770943599</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005280</TD>
+                <TD></TD>
+                <TD>596,48</TD>
+                <TD>596,48</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,824</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>17091913760</TD>
+                <TD>MAYARA STEFANY MARTINS DOS SANTOS</TD>
+                <TD>332247</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005488</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>17144675702</TD>
+                <TD>JESSICA JOELMA DOS SANTOS MARIANO</TD>
+                <TD>338173</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005907</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>17292945619</TD>
+                <TD>FABRICIA SOARES DE MATOS</TD>
+                <TD>331863</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005438</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>18156001796</TD>
+                <TD>KESIA MARCELINO DOS SANTOS</TD>
+                <TD>331302</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>PATRIQUI GUIMARÃES DIAS</TD>
+                <TD>'1291.39953662878</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005356</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>20079335780</TD>
+                <TD>BEATRIZ SANTOS LOPES</TD>
+                <TD>334274</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>JÉSSICA PACHECO CABRAL</TD>
+                <TD>'1291.13701162760</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005561</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>24168215806</TD>
+                <TD>ALINE DIAS DE JESUS</TD>
+                <TD>331145</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005352</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>29265412879</TD>
+                <TD>RENATA APARECIDA GONCALVES</TD>
+                <TD>328960</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005290</TD>
+                <TD></TD>
+                <TD>528,11</TD>
+                <TD>528,11</TD>
+                <TD>149</TD>
+                <TD>9</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>26,4055</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>33199472818</TD>
+                <TD>MARIANA CRISTINA DA SILVA HERCULANA</TD>
+                <TD>331403</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005385</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>38230972885</TD>
+                <TD>CLEIDIANE MARTINS RAMOS</TD>
+                <TD>334136</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005550</TD>
+                <TD></TD>
+                <TD>674,18</TD>
+                <TD>674,18</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,709</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>38838267820</TD>
+                <TD>ELEN CRISTINA JESUS DA SILVA</TD>
+                <TD>331045</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>EDUARDO DOS SANTOS VITORIO</TD>
+                <TD>'1291.41712672851</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005328</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>39683079172</TD>
+                <TD>IVANI VIEIRA DE BESSA DE OLIVEIRA</TD>
+                <TD>340351</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>SAMAR JAROUSH</TD>
+                <TD>'1291.47038016806</TD>
+                <TD>013 - ANTECIPAÇÃO 2ª PARCELA</TD>
+                <TD>CREFISA</TD>
+                <TD>INSS</TD>
+                <TD>EMPRESTIMO PESSOAL 13º - 2ª PARCELA</TD>
+                <TD>509430006001</TD>
+                <TD></TD>
+                <TD>354,35</TD>
+                <TD>354,35</TD>
+                <TD>494,2</TD>
+                <TD>1</TD>
+                <TD>0</TD>
+                <TD>14</TD>
+                <TD>49,609</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>42494224888</TD>
+                <TD>MARIANA GRACIANO MARTINS</TD>
+                <TD>331439</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005386</TD>
+                <TD></TD>
+                <TD>563,01</TD>
+                <TD>563,01</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,1505</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>42590781865</TD>
+                <TD>LYGIA MARA PUERTA ALVES</TD>
+                <TD>325631</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MARCELA SILVA ARGOLO</TD>
+                <TD>'1291.85770943599</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005276</TD>
+                <TD></TD>
+                <TD>682,79</TD>
+                <TD>682,79</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,1395</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>45038028870</TD>
+                <TD>JOYCE MOREIRA DOS SANTOS LAPA</TD>
+                <TD>332306</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005490</TD>
+                <TD></TD>
+                <TD>585,14</TD>
+                <TD>585,14</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,257</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>47625831892</TD>
+                <TD>LARISSA KAROLINE ALINA</TD>
+                <TD>331189</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005365</TD>
+                <TD></TD>
+                <TD>588,94</TD>
+                <TD>588,94</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,447</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>48507429807</TD>
+                <TD>LETICIA GABRIELLA CAETANO PEREIRA</TD>
+                <TD>332231</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LOHANNY SANTOS DE MELO</TD>
+                <TD>'1291.40273498819</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005479</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>49379776870</TD>
+                <TD>ANDRESSA DA SILVA JACINTO</TD>
+                <TD>331211</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>BEATRIZ BRANDAO ROCHA</TD>
+                <TD>'1291.40138051895</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005377</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>53300130387</TD>
+                <TD>MARIA DO LIVRAMENTO DA SILVA DE OLIVEIRA</TD>
+                <TD>334226</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005558</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>60714810312</TD>
+                <TD>NATHALIA COSTA DOS SANTOS</TD>
+                <TD>325405</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005266</TD>
+                <TD></TD>
+                <TD>592,64</TD>
+                <TD>592,64</TD>
+                <TD>148,04</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,632</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>68151993049</TD>
+                <TD>ELIZETE RODRIGUES MEDEIROS</TD>
+                <TD>338530</TD>
+                <TD>10/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>DANIELE EUFRASIO MARCIANO</TD>
+                <TD>'1291.22753956871</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005939</TD>
+                <TD></TD>
+                <TD>669,84</TD>
+                <TD>669,84</TD>
+                <TD>148,04</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,492</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>69367183291</TD>
+                <TD>REGINA RITA DA SILVA MARTINS</TD>
+                <TD>331643</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005414</TD>
+                <TD></TD>
+                <TD>687,21</TD>
+                <TD>687,21</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,3605</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>70671029100</TD>
+                <TD>ANA KAROLYNA BARBOSA DE SOUZA</TD>
+                <TD>331826</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005443</TD>
+                <TD></TD>
+                <TD>577,65</TD>
+                <TD>577,65</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,8825</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>70852572450</TD>
+                <TD>DHARINKA CAROLINE DA CRUZ SILVA</TD>
+                <TD>331481</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>MARCELA SILVA ARGOLO</TD>
+                <TD>'1291.85770943599</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005393</TD>
+                <TD></TD>
+                <TD>573,9</TD>
+                <TD>573,9</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>28,695</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>83282785291</TD>
+                <TD>IBSA ARAUJO DA COSTA</TD>
+                <TD>325273</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>KETHLEN DA COSTA BRITO</TD>
+                <TD>'1291.03205083237</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005264</TD>
+                <TD></TD>
+                <TD>585,16</TD>
+                <TD>585,16</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,258</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>85279528072</TD>
+                <TD>ANDRIELE SARAIVA COSTA</TD>
+                <TD>328874</TD>
+                <TD>06/04/2024</TD>
+                <TD>09/04/2024</TD>
+                <TD>MILENA ANDRADE DA SILVA</TD>
+                <TD>'1291.46813478842</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005283</TD>
+                <TD></TD>
+                <TD>682,79</TD>
+                <TD>682,79</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>34,1395</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>86575193560</TD>
+                <TD>BRUNA CHUNG MOURA</TD>
+                <TD>332378</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ELTON LEANDRO DOS SANTOS</TD>
+                <TD>'1291.02363989546</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005484</TD>
+                <TD></TD>
+                <TD>600,34</TD>
+                <TD>600,34</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>30,017</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>93190255253</TD>
+                <TD>MILANE DA CRUZ MIRANDA</TD>
+                <TD>334144</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>ALEXANDRE FEITOSA DO NASCIMENTO</TD>
+                <TD>'1291.03736942532</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005545</TD>
+                <TD></TD>
+                <TD>669,83</TD>
+                <TD>669,83</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>33,4915</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+            <TR>
+                <TD>50943  </TD>
+                <TD>THE ONE PRESTACAO DE SERVICOS LTDA</TD>
+                <TD>'31663906000110</TD>
+                <TD>Bônus</TD>
+                <TD>96925540663</TD>
+                <TD>ROSIMEIRE MARIA THEODORO</TD>
+                <TD>331395</TD>
+                <TD>08/04/2024</TD>
+                <TD>10/04/2024</TD>
+                <TD>LEANDRO DIAS LOPES</TD>
+                <TD>'1291.13532941708</TD>
+                <TD>001 - Novo Contrato</TD>
+                <TD>CREFISA</TD>
+                <TD>Baixa Renda</TD>
+                <TD>EMPRESTIMO PESSOAL DESC EM CONTA</TD>
+                <TD>509430005388</TD>
+                <TD></TD>
+                <TD>581,4</TD>
+                <TD>581,4</TD>
+                <TD>149</TD>
+                <TD>12</TD>
+                <TD>0</TD>
+                <TD>5</TD>
+                <TD>29,07</TD>
+                <TD>12/04/2024</TD>
+            </TR>
+            
+    </table>
+
+    <script type="text/javascript">
+        history.back(-1);
+    </script>
+
+    
